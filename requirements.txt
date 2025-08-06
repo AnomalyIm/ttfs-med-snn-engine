@@ -1,0 +1,10 @@
+numpy
+matplotlib
+opencv-python
+pytest
+bindsnet
+h5py
+scikit-learn
+streamlit
+fastapi
+mlflow
