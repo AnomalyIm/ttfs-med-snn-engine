@@ -2,9 +2,9 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/ttfs-med-snn-engine)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/ttfs-med-snn-engine)
-![Issues](https://img.shields.io/github/issues/your-username/ttfs-med-snn-engine)
+![Repo Size](https://img.shields.io/github/repo-size/AnomalyIm/ttfs-med-snn-engine)
+![Last Commit](https://img.shields.io/github/last-commit/AnomalyIm/ttfs-med-snn-engine)
+![Issues](https://img.shields.io/github/issues/AnomalyIm/ttfs-med-snn-engine)
 
 ## 🔬 Project Overview
 This project implements a **biologically inspired Spiking Neural Network (SNN)** to analyze medical imaging data using **Time-to-First-Spike (TTFS)** decoding. Unlike traditional artificial neural networks, this model mimics how real neurons in the brain communicate — using spikes (discrete events over time) — to process and classify medical images like **MRI** or **EEG scans**. We simulate **spike-based encoding**, transmission, and decoding in a **full pipeline** that’s fast, sparse, and highly energy-efficient.
